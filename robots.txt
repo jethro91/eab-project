@@ -1,0 +1,6 @@
+User-Agent: *
+
+Aloow: /
+
+Disallow: /404.html
+Disallow: /500.html
